@@ -14,3 +14,6 @@ student_age = st.slider("enter the age")
 if st.button("Display Info"):
     st.write("Student's name: ", student_name)
     st.write("Student's age: ", student_age)
+
+# checkbox
+st.checkbox('coche si tu as tout compris ce matin')
