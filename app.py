@@ -16,4 +16,4 @@ if st.button("Display Info"):
     st.write("Student's age: ", student_age)
 
 # checkbox
-st.checkbox('coche si tu as tout compris ce matin')
+st.checkbox('coche ici si tu as tout compris ce matin')
